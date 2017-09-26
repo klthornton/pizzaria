@@ -1,0 +1,31 @@
+body {
+
+	font-family: Tahoma;
+	background-image: url(https://i.pinimg.com/originals/26/f1/45/26f145287e2948fc5b5d977382ef0467.jpg);
+
+}
+
+h1 {
+	font-size-adjust: 72px;
+	text-align: center;
+
+}
+
+h2 { 
+	font-size-adjust: 50px;
+	text-align: center;
+}
+
+img {
+
+	width: 200px;
+
+
+}
+
+
+li {
+	text-align: left;
+
+}
+
